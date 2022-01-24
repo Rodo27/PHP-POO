@@ -1,0 +1,15 @@
+{
+    "name": "ejemplo/poo",
+    "autoload": {
+        "psr-4": {
+            "Ejemplo\\Poo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aldo Rodrigo",
+            "email": "aldo.hernandez@gmail.com"
+        }
+    ],
+    "require": {}
+}
